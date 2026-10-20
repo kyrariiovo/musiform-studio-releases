@@ -10,8 +10,8 @@ Music Formation studio · 舞蹈与行进管乐队形编排软件。
 
 | Mac 芯片 | 安装包 |
 | --- | --- |
-| Apple Silicon（M 系列） | [arm64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/latest/download/Musiform-studio-0.7.0-mac-arm64.dmg) |
-| Intel | [x64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/latest/download/Musiform-studio-0.7.0-mac-x64.dmg) |
+| Apple Silicon（M 系列） | [arm64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/download/v0.7.0/Musiform-studio-0.7.0-mac-arm64.dmg) |
+| Intel | [x64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/download/v0.7.0/Musiform-studio-0.7.0-mac-x64.dmg) |
 
 最低系统：macOS 13 Ventura。支持 macOS 14 Sonoma、15 Sequoia、26 Tahoe、27。macOS 12 及以前暂不支持。Release 同时提供两种架构的 ZIP 和 SHA256SUMS.txt。
 
