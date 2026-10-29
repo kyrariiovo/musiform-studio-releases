@@ -10,8 +10,8 @@ Music Formation studio · 舞蹈与行进管乐队形编排软件。
 
 | Mac 芯片 | 安装包 |
 | --- | --- |
-| Apple Silicon（M 系列） | [arm64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/download/v0.7.0/Musiform-studio-0.7.0-mac-arm64.dmg) |
-| Intel | [x64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/download/v0.7.0/Musiform-studio-0.7.0-mac-x64.dmg) |
+| Apple Silicon（M 系列） | [arm64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/download/v0.7.1/Musiform-studio-0.7.1-mac-arm64.dmg) |
+| Intel | [x64 DMG](https://github.com/kyrariiovo/musiform-studio-releases/releases/download/v0.7.1/Musiform-studio-0.7.1-mac-x64.dmg) |
 
 最低系统：macOS 13 Ventura。支持 macOS 14 Sonoma、15 Sequoia、26 Tahoe、27。macOS 12 及以前暂不支持。Release 同时提供两种架构的 ZIP 和 SHA256SUMS.txt。
 
@@ -20,6 +20,12 @@ Music Formation studio · 舞蹈与行进管乐队形编排软件。
 当前版本采用本地 ad-hoc 签名，尚无 Developer ID 分发签名和 Apple 公证。macOS 可能要求在“系统设置 → 隐私与安全性”确认打开。请核对本仓库来源与 SHA256SUMS.txt，无需关闭 Gatekeeper 或 SIP。
 
 Apple Silicon 原生应用和通过 Rosetta 运行的 Intel 包已验证；各旧版 macOS 及实体 Intel Mac 尚未逐一实机测试。
+
+## 下载 Android 平板预览版
+
+[Android 0.7.1 APK 与校验和](https://github.com/kyrariiovo/musiform-studio-releases/releases/tag/android-tablet-v0.7.1)
+
+支持 Android 10 及以上和当前 Android System WebView，建议 8 英寸以上平板。版本为 `0.7.1-tablet`，使用与旧版相同的调试签名，可覆盖安装；尚未上架商店。更新前请将工程保存到系统文档目录。Mac 与 Android 共用 `.mfs` 工程格式。本次验证使用 Android 15 平板模拟器，实体设备仍需试用确认。
 
 ## 软件内更新
 
